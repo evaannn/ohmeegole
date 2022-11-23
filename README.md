@@ -2,8 +2,8 @@
 > **Note**:
 > You will need OBS
 
-Omegler uses OBS to display peoples ip info on the camera for omegle.
-Use it to create a 'spongebob' ip 'meme' automatically with people's **real** info
+ohmeegole uses OBS to display peoples ip info on the camera for omegle.
+Use it to create an ip 'meme' automatically with people's **real** info
 
 ## Setup Guide
 
