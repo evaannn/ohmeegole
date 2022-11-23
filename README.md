@@ -12,11 +12,11 @@ Use it to create an ip 'meme' automatically with people's **real** info
 - Set the CSS of the browser to 
 `body { background-color: rgba(0, 0, 0, .75); margin: 0px auto; overflow: hidden; }; p { color: #ffffff; font-size: 80px  }`
 - run `npm i && node .`
-- Paste the code in browsercode.js into your omegle console.
-- win?
+- Paste the code from browsercode.js to your omegle website's console
+- enjoy terrorizing people assfag
 
 ## Need support?
-- too bad retard
+- too bad dumbfuck
 
 ## preview
 ![spongebob ip shit](https://cdn.discordapp.com/attachments/1040667633802031216/1040667639443374100/image.png)
